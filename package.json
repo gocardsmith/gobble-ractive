@@ -14,8 +14,8 @@
     "README.md"
   ],
   "dependencies": {
-    "ractive": "^0.7.0",
-    "rcu": "^0.4.0",
-    "rcu-builders": "^0.2.0"
+    "ractive": "^0.8.14",
+    "rcu": "^0.11.0",
+    "rcu-builders": "^0.6.0"
   }
 }
